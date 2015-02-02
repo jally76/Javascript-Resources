@@ -11,3 +11,7 @@ koala是一个前端预处理器语言图形编译工具，支持Less、Sass、C
 bootmetro https://github.com/aozora/bootmetro
 Simple and complete web UI framework to create web apps with Windows 8 Metro user interface. 
 
+Medium.js http://jakiestfu.github.io/Medium.js/
+A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor) 
+
+
